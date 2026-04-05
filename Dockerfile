@@ -13,6 +13,8 @@ RUN --mount=type=bind,source=requirements.txt,target=/requirements.txt \
     chown nobody:nogroup "$VENV_PATH"
 ENV PATH="${VENV_PATH}/bin:${PATH}"
 
+USER nobody:nogroup
+
 # This is where users are expected to mount or place their slide content
 WORKDIR /slides
 
