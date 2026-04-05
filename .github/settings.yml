@@ -1,0 +1,5 @@
+---
+# https://github.com/apps/settings
+repository:
+  description: MkSlides is a static site generator thats geared towards building slideshows.
+  topics: mkslides, tools, container, docker
