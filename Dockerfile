@@ -1,4 +1,4 @@
-FROM docker.io/python:3.14.3-slim
+FROM docker.io/python:3.15.0rc1-slim
 
 LABEL org.opencontainers.image.source="https://github.com/leberkaslabs/docker-image-mkslides"
 
