@@ -1,6 +1,6 @@
 # MkSlides
 
-[![Container Release (MkSlides)](https://github.com/leberkaslabs/docker-image-mkslides/actions/workflows/build-push-action.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-mkslides/actions/workflows/build-push-action.yml)
+[![Container Release (MkSlides)](https://github.com/leberkaslabs/docker-image-mkslides/actions/workflows/build.yml/badge.svg)](https://github.com/leberkaslabs/docker-image-mkslides/actions/workflows/build.yml)
 
 This repository provides a Docker image for [MkSlides](https://github.com/MartenBE/mkslides).
 
