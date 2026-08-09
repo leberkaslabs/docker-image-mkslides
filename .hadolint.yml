@@ -3,4 +3,5 @@
 # https://github.com/hadolint/hadolint?tab=readme-ov-file#rules
 ignored:
   - DL3013
+  - DL3066
   - SC1091
